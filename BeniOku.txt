@@ -1,0 +1,3 @@
+[Kaynak]:
+https://www.muratsuzen.com/2020/03/asp-net-core-3-1-web-api-jwt-authentication-kullanimi.html
+http://www.canertosuner.com/post/asp-net-core-json-web-token-kullanimi
